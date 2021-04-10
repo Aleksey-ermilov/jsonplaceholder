@@ -1,0 +1,29 @@
+// USER
+export const FETCH_USERS = 'USER/FETCH_USERS'
+export const FETCH_POSTS = 'USER/FETCH_POSTS'
+export const FETCH_TODOS = 'USER/FETCH_TODOS'
+export const FETCH_ALBUMS = 'USER/FETCH_ALBUMS'
+
+export const SET_USER = 'USER/SET_USER'
+export const CLEAR_USER = 'USER/CLEAR_USER'
+
+export const CREATE_USER = 'USER/CREATE_USER'
+export const CREATE_POST = 'USER/CREATE_POST'
+export const CREATE_TODO = 'USER/CREATE_TODO'
+export const CREATE_ALBUM = 'USER/CREATE_ALBUM'
+
+export const EDIT_USER = 'USER/EDIT_USER'
+export const EDIT_POST = 'USER/EDIT_POST'
+export const EDIT_TODO = 'USER/EDIT_TODO'
+export const EDIT_ALBUM = 'USER/EDIT_ALBUM'
+
+export const DELETE_USER = 'USER/DELETE_USER'
+export const DELETE_POST = 'USER/DELETE_POST'
+export const DELETE_TODO = 'USER/DELETE_TODO'
+export const DELETE_ALBUM = 'USER/DELETE_ALBUM'
+
+// APP
+export const SHOW_LOADER = 'APP/SHOW_LOADER'
+export const HIDE_LOADER = 'APP/HIDE_LOADER'
+export const SHOW_ERROR = 'APP/SHOW_ERROR'
+export const HIDE_ERROR = 'APP/HIDE_ERROR'
