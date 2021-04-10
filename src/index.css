@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.hover:hover {
+  background-color: rgb(236, 236, 236);
+}
+
+
+.todo_title{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
